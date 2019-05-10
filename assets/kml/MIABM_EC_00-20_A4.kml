@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+   <Folder>
+   <open>1</open>
+   <visibility>1</visibility>
+   <GroundOverlay>
+   <name>2013-05-15 12:00:00Z</name>
+   <visibility>1</visibility>
+   <Icon><href>"../assets/images/kmlfazendasafra.png"</href></Icon>
+   <LatLonBox>
+   <north>-13.757677476543392</north>
+   <south>-13.776471219494596</south>
+   <east>-55.6171044176215</east>
+   <west>-55.6400638224566</west>
+   </LatLonBox>
+   <TimeStamp><when>2019-05-07T12:00:00Z</when></TimeStamp>
+   </GroundOverlay>
+   </Folder>
+</kml>
